@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dropdown_React/static/css/main.2278f6cc.css",
+    "main.js": "/Dropdown_React/static/js/main.b89eb558.js",
+    "index.html": "/Dropdown_React/index.html",
+    "main.2278f6cc.css.map": "/Dropdown_React/static/css/main.2278f6cc.css.map",
+    "main.b89eb558.js.map": "/Dropdown_React/static/js/main.b89eb558.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2278f6cc.css",
+    "static/js/main.b89eb558.js"
+  ]
+}
